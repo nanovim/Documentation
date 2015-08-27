@@ -12,7 +12,7 @@ the parameters are passed by reference or by value, and what the type of
 the parameters is:
 
 ```cpp
-#include <phpcpp.h?
+#include <phpcpp.h>
 
 void example(Php::Parameters &params)
 {
